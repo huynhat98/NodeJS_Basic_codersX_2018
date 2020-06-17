@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "name": "huy6",
+      "phone": "234234234",
+      "id": "R6XX9PTaa"
+    },
+    {
+      "name": "huy3",
+      "phone": "12345",
+      "id": "P_xfdDJVw"
+    },
+    {
+      "name": "huy1",
+      "phone": "1234567",
+      "id": "dipQrxGiX"
+    },
+    {
+      "name": "huy",
+      "phone": "123456",
+      "id": "dipQrxGiu",
+      "email": "huy@gmail.com",
+      "password": "e10adc3949ba59abbe56e057f20f883e"
+    }
+  ]
+}
