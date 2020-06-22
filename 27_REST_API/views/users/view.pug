@@ -1,0 +1,21 @@
+extends ../layouts/common
+
+block content    
+    h1.mb-5 View user
+    .row
+        .col.col-4
+            p
+                img(src= user.avatar, width=200)
+        .col.col-8
+            p 
+                b Name:
+                span &nbsp
+                span= user.name
+            p 
+                b Phone:
+                span &nbsp
+                span= user.phone
+            p 
+                b ID:
+                span &nbsp
+                span= user.id
